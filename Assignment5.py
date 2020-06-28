@@ -86,7 +86,7 @@ for i in x:
 
 
 # to find the length without using len()
-a='cooler'
+a='refrigerator'
 count=0
 for i in a:
     count=count+1
